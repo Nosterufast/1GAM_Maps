@@ -1,0 +1,75 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BB22760D-E743-4D60-57CA-24B6F05CB5DB}") = "MapQuest", "Assembly-CSharp-firstpass.csproj", "{25AC3247-377E-E594-F208-9EAB2EFA1634}"
+EndProject
+Project("{BB22760D-E743-4D60-57CA-24B6F05CB5DB}") = "MapQuest", "Assembly-CSharp.csproj", "{F83E29DA-6576-B842-861C-BE32CA86A6EF}"
+EndProject
+Project("{BB22760D-E743-4D60-57CA-24B6F05CB5DB}") = "MapQuest", "Assembly-UnityScript.unityproj", "{310ED3E0-D533-4600-8F65-3E02A58D853F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25AC3247-377E-E594-F208-9EAB2EFA1634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AC3247-377E-E594-F208-9EAB2EFA1634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AC3247-377E-E594-F208-9EAB2EFA1634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AC3247-377E-E594-F208-9EAB2EFA1634}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83E29DA-6576-B842-861C-BE32CA86A6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83E29DA-6576-B842-861C-BE32CA86A6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83E29DA-6576-B842-861C-BE32CA86A6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83E29DA-6576-B842-861C-BE32CA86A6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310ED3E0-D533-4600-8F65-3E02A58D853F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310ED3E0-D533-4600-8F65-3E02A58D853F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310ED3E0-D533-4600-8F65-3E02A58D853F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310ED3E0-D533-4600-8F65-3E02A58D853F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																													GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.TabWidth = 2
+		$1.IndentWidth = 1
+		$1.inheritsSet = Mono
+		$1.inheritsScope = text/plain
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.PropertyBraceStyle = NextLine
+		$2.StatementBraceStyle = NextLine
+		$2.ElseNewLinePlacement = NewLine
+		$2.ElseIfNewLinePlacement = SameLine
+		$2.CatchNewLinePlacement = NewLine
+		$2.FinallyNewLinePlacement = NewLine
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.AfterDelegateDeclarationParameterComma = True
+		$2.NewParentheses = False
+		$2.IfParentheses = False
+		$2.WhileParentheses = False
+		$2.ForParentheses = False
+		$2.ForeachParentheses = False
+		$2.CatchParentheses = False
+		$2.SwitchParentheses = False
+		$2.LockParentheses = False
+		$2.UsingParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.TabWidth = 2
+		$3.IndentWidth = 1
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+		$0.DotNetNamingPolicy = $4
+		$4.DirectoryNamespaceAssociation = None
+		$4.ResourceNamePolicy = FileFormatDefault
+	EndGlobalSection
+
+EndGlobal
